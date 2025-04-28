@@ -10,6 +10,8 @@ Este repositório contém o design e o plano de implementação de um sistema si
 
 ## Mapa de Empatia
 
+![Mapa de Empatia](Mapa%20de%20Empatia.png)
+
 O seguinte mapa de empatia foi criado para entender melhor as experiências diárias e os desafios da equipe de suporte em provedores pequenos:
 
 | Área | Respostas |
@@ -63,6 +65,7 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
    * Nome do Cliente
    * Telefone
    * Descrição do Problema
+   * Prioridade (Baixa, Média, Alta) com cor ou ícone indicativo
    * Data/Hora de abertura
    * Botão **[Marcar como Resolvido]**
 
@@ -72,14 +75,15 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
    * Nome do Cliente
    * Telefone
    * Problema
+   * Prioridade (Seleção: Baixa, Média, Alta)
 * Botão **[Salvar Chamado]**
 
 ### Fluxo de Uso (roteiro)
 1. Atendente abre a tela de "Chamados em Aberto".
 2. Clica em "Novo Chamado" para adicionar um novo atendimento.
-3. Preenche nome, telefone e descrição do problema.
+3. Preenche nome, telefone, descrição do problema e prioridade.
 4. Salva o chamado.
-5. O chamado aparece na lista, organizado do mais antigo para o mais recente.
+5. O chamado aparece na lista, organizado por prioridade (alta primeiro) e depois por ordem de abertura.
 6. Quando resolver o problema, clica em "Marcar como Resolvido".
 
 ## Teste e Feedback
@@ -87,12 +91,3 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 ### Feedback Simulado
 * **O que funcionou bem:** "....."
 * **O que pode melhorar:** "....."
-
-## Resumo das Entregas
-
-| Parte | Entrega |
-|-------|---------|
-| 1. Mapa de Empatia | Slide/Imagem mostrando respostas de empatia. |
-| 2. Sprint Planning | Lista de backlog técnico + plano dos 5 dias. |
-| 3. Protótipo | Telas feitas no Figma (lista de chamados + cadastro de chamado). |
-| 4. Feedback | Texto breve com pontos positivos e sugestões de melhoria. |
