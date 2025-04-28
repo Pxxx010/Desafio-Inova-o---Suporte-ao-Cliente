@@ -31,6 +31,8 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 
 ## Product Backlog (Tarefas Técnicas)
 
+![Product Backlog](Product%20Backlog.png)
+
 ### 1. Estrutura de Dados
 - Criar modelo de dados para chamados (schemas)
 - Implementar banco de dados SQLite local
@@ -74,7 +76,15 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 
 ### Telas a serem implementadas no Figma
 
-#### 1. Tela Inicial: Lista de Chamados
+#### 1. Tela Login
+* Título: "W3cSys - Login"
+* Campos:
+   * Email/Usuário
+   * Senha
+
+Botão **[Entrar]**
+
+#### 2. Tela Inicial: Lista de Chamados
 * Título: "Chamados em Aberto"
 * Lista de cartões com:
    * Nome do Cliente
@@ -83,15 +93,27 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
    * Prioridade (Baixa, Média, Alta) com cor ou ícone indicativo
    * Data/Hora de abertura
    * Botão **[Marcar como Resolvido]**
+* Cards indicadores:
+  * Chamados Abertos: 0 (ícone azul)
+  * Chamados Fechados: 2 (ícone verde)
+  * Chamados > 3 dias: 0 (ícone vermelho)
+* Filtros:
+  * Dropdown de status "Todos"
+  * Seletor de datas
+* Abas de navegação:
+  * Todos (2)
+  * Abertos (0)
+  * Fechados (2)
 
-#### 2. Tela de Cadastro de Chamado
+#### 3. Tela de Cadastro de Chamado
 * Título: "Novo Chamado"
 * Campos para preencher:
    * Nome do Cliente
+   * Login do Cliente
    * Telefone
-   * Problema
+   * Descrição do Problema
    * Prioridade (Seleção: Baixa, Média, Alta)
-* Botão **[Salvar Chamado]**
+* Botão **[Criar Chamado]**
 
 ### Fluxo de Uso (roteiro)
 1. Atendente abre a tela de "Chamados em Aberto".
