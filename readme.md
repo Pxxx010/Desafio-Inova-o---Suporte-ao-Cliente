@@ -19,7 +19,7 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 | O que pensa e sente? | Cansaço, pressão, vontade de atender bem mas falta estrutura. |
 | O que fala e faz? | Pede desculpas, tenta atender todos, corre para resolver o que consegue. |
 | Quais são suas dores? | Multitarefa extrema, falta de organização, estresse. |
-| Quais são as necessidades? | Ter um sistema simples e rápido para registrar e organizar chamados, reduzir o estresse do atendimento manual, garantir resposta rápida aos clientes. |
+| Quais são seus ganhos? | Satisfação ao resolver rápido, reconhecimento de clientes e da empresa. |
 
 ## Sprint Planning
 
