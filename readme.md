@@ -88,6 +88,8 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 | 5 | Finalizar responsividade, realizar testes e preparar demonstração 
 ## Protótipo de Solução
 
+🔗 [Acesse o protótipo interativo aqui](https://www.figma.com/proto/o0YqgfbkEOYWBuUCRCIjyT/Untitled?node-id=0-1&p=f&t=uPpwgYwCoM9GM1oK-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+
 ### Telas a serem implementadas no Figma
 
 #### 1. Tela Login
