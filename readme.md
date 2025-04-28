@@ -59,7 +59,9 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 - Adaptar interface para dispositivos móveis
 - Implementar feedback visual (notificações, animações)
 
-## Planejamento dos 5 dias
+## Sprint: **05/05/2025 a 09/05/2025**
+
+### Planejamento dos 5 dias
 
 | Dia | Atividades |
 |-----|------------|
