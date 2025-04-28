@@ -28,33 +28,46 @@ O seguinte mapa de empatia foi criado para entender melhor as experiências diá
 ### Objetivo da Sprint
 **Criar um sistema simples para registrar e organizar chamados de clientes no provedor pequeno.**
 
-### Product Backlog (Tarefas Técnicas)
-1. **Estrutura de Dados (Dia 1)**
-   - Criar modelo de dados para chamados (schemas)
-   - Implementar banco de dados SQLite local
-   - Desenvolver API REST básica para CRUD de chamados
 
-2. **Frontend - Parte 1 (Dia 2)**
-   - Implementar componente de listagem de chamados
-   - Desenvolver formulário de cadastro com validações
-   - Integrar com API para exibição de dados em tempo real
+## Product Backlog (Tarefas Técnicas)
 
-3. **Frontend - Parte 2 (Dia 3)**
-   - Implementar função "Marcar como Resolvido" com atualização de status
-   - Adicionar sistema de ordenação por data de criação
-   - Desenvolver filtros básicos (chamados abertos/resolvidos)
-   - Implementar responsividade para uso em dispositivos móveis
+### 1. Estrutura de Dados
+- Criar modelo de dados para chamados (schemas)
+- Implementar banco de dados SQLite local
 
-### Planejamento dos 5 dias
+### 2. API Backend
+- Desenvolver API REST básica para CRUD de chamados
+- Implementar endpoints para filtros e ordenação
+
+### 3. Frontend - Listagem
+- Implementar componente de listagem de chamados
+- Integrar com API para exibição em tempo real
+
+### 4. Frontend - Formulários
+- Desenvolver formulário de cadastro com validações
+- Criar tela de edição de chamados existentes
+
+### 5. Gestão de Status
+- Implementar função "Marcar como Resolvido" 
+- Adicionar transições de status com histórico
+
+### 6. Filtros e Ordenação
+- Desenvolver filtros avançados (por status, data, prioridade)
+- Implementar sistema de ordenação customizável
+
+### 7. Responsividade e UX
+- Adaptar interface para dispositivos móveis
+- Implementar feedback visual (notificações, animações)
+
+## Planejamento dos 5 dias
 
 | Dia | Atividades |
 |-----|------------|
-| 1 | Definir informações principais e implementar estrutura de dados e API básica. |
-| 2 | Desenvolver componentes frontend principais e integração com API. |
-| 3 | Finalizar implementação de funcionalidades e adicionar responsividade. |
-| 4 | Realizar testes de integração e correção de bugs. |
-| 5 | Apresentar o protótipo funcional e coletar feedback. |
-
+| 1 | Desenvolver estrutura de dados e configurar banco SQLite |
+| 2 | Implementar API backend e iniciar componente de listagem |
+| 3 | Finalizar frontend de listagem e desenvolver formulários |
+| 4 | Implementar gestão de status, filtros e ordenação |
+| 5 | Finalizar responsividade, realizar testes e preparar demonstração 
 ## Protótipo de Solução
 
 ### Telas a serem implementadas no Figma
