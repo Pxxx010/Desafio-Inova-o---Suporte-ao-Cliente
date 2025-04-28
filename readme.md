@@ -2,6 +2,20 @@
 
 Este repositório contém o design e o plano de implementação de um sistema simples de registro de chamados, desenvolvido especificamente para pequenos provedores de internet.
 
+## Deploy
+O sistema está disponível em produção através do link: [W3cSys](https://w3csys.vercel.app/)
+  * **User:** teste
+  * **Pass:** teste
+
+**Status do Desenvolvimento:** O sistema se encontra em 80% de finalização, com as funcionalidades principais implementadas e em fase de refinamento.
+
+**Funcionalidades em Desenvolvimento:**
+* Implementação de sistema de prioridade para chamados
+* Melhorias na interface de usuário
+* Adição de novos filtros e ordenações
+
+O protótipo do sistema pode ser visualizado no Figma através do link: [Protótipo W3cSys](https://www.figma.com/proto/o0YqgfbkEOYWBuUCRCIjyT/Untitled?node-id=0-1&p=f&t=uPpwgYwCoM9GM1oK-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+
 ## Índice
 - [Mapa de Empatia](#mapa-de-empatia)
 - [Sprint Planning](#sprint-planning)
@@ -125,6 +139,11 @@ Botão **[Entrar]**
 
 ## Teste e Feedback
 
-### Feedback Simulado
-* **O que funcionou bem:** "....."
-* **O que pode melhorar:** "....."
+### Feedback's
+* **O que funcionou bem:** "Facilidade de uso, registro e fechamento claros, sistema prático e intuitivo."
+* **O que pode melhorar:** "Cor do botão de cancelar, adicionar mais funcionalidades."
+* **Você recomendaria esse sistema para pequenos provedores de internet?** "Sim, todos os participantes recomendaram."
+
+
+
+🔗 [Acesse o formulário aqui](https://forms.gle/q3xdSZkwqHbvvmfh6)
