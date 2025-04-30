@@ -148,4 +148,7 @@ Botão **[Entrar]**
 
 
 
+
 🔗 [Acesse o formulário aqui](https://forms.gle/q3xdSZkwqHbvvmfh6)
+
+🔗 [Planilha De Resultados](https://docs.google.com/spreadsheets/d/1AQgN1y1fGKgqCdbFpyKcIB3SYchRBD-_cS80TVtk9qY/edit?usp=sharing)
