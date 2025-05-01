@@ -3,7 +3,7 @@
 Este repositório contém o design e o plano de implementação de um sistema simples de registro de chamados, desenvolvido especificamente para pequenos provedores de internet.
 
 ## Deploy
-O sistema está disponível em produção através do link: [W3cSys](https://w3csys.vercel.app/)
+O sistema está disponível em produção através do link: [W3cSys](https://w3csys.netlify.app/)
   * **User:** teste
   * **Pass:** teste
 
